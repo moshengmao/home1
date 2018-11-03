@@ -1,0 +1,32 @@
+<resources>
+    <string name="equ">＝</string>
+    <string name="plus">＋</string>
+    <string name="minus">－</string>
+    <string name="b">×</string>
+    <string name="v">÷</string>
+    <string name="lx">1/x</string>
+    <string name="n">.</string>
+    <string name="btn3">3</string>
+    <string name="btn6">6</string>
+    <string name="btn9">9</string>
+    <string name="btnm">←</string>
+    <string name="x">x²</string>
+    <string name="btn0">0</string>
+    <string name="btn2">2</string>
+    <string name="btn5">5</string>
+    <string name="btn8">8</string>
+    <string name="C">C</string>
+    <string name="u">√</string>
+    <string name="y">±</string>
+    <string name="btn1">1</string>
+    <string name="btn4">4</string>
+    <string name="btn7">7</string>
+    <string name="CE" >CE</string>
+    <string name="q">%</string>
+    <string name="str">et_input</string>
+    <string name="STRING">Calculator</string>
+    <string name="app_name">home</string>
+    <string name="number0">0</string>
+    <string name="mistake">输出有误</string>
+    <string name="mistskes2">输入有误</string>
+</resources>
